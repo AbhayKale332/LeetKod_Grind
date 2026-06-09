@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2574-left-and-right-sum-differences) |
+| [3689-maximum-total-subarray-value-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3689-maximum-total-subarray-value-i) |
 ## Simulation
 |  |
 | ------- |
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2161-partition-array-according-to-given-pivot) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
