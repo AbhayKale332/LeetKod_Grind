@@ -13,11 +13,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## String
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
