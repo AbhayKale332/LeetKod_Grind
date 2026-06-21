@@ -10,9 +10,9 @@ public:
                 coins -= costs[i];
                 icecream++;
             }
-            // else{
-            //     break;
-            // }
+            else{
+                break;
+            }
         }
         return icecream;
     }
