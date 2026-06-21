@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
@@ -108,5 +110,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
