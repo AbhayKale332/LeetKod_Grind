@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0217-contains-duplicate) |
 | [1732-find-the-highest-altitude](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
