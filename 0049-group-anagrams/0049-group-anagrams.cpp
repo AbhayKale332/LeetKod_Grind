@@ -1,5 +1,5 @@
 //brute Force
-//Mlog(N)
+//O(m*n log n)
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
