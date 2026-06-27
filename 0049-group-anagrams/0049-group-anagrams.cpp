@@ -20,6 +20,8 @@
 // };
 
 
+//Optimized Solution
+//O(m*k) where m=Input & k=conting chars 26;
 
 class Solution {
 public:
