@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Depth-First Search
 |  |
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
 ## Counting Sort
