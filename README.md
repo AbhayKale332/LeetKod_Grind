@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3614-process-string-with-special-operations-ii) |
@@ -136,12 +139,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Number Theory
 |  |
