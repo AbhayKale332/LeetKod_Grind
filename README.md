@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0021-merge-two-sorted-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -152,4 +153,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
