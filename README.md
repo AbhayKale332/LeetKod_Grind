@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0877-stone-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -165,4 +168,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
