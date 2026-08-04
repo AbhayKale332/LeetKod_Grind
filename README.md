@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
