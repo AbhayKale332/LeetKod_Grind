@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Bit Manipulation
@@ -184,4 +185,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1406-stone-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
