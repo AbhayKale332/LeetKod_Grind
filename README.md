@@ -193,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3310-remove-methods-from-project) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
