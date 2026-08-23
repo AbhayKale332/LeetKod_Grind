@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
