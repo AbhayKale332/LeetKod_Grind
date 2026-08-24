@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2029-stone-game-ix) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -89,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1140-stone-game-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -227,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -235,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -242,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
