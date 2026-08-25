@@ -12,7 +12,7 @@ public:
         }
         for(int i=1; ;i++)
         {
-            if((k*i)%k==0 && !num.count(k*i))
+            if(!num.count(k*i))
             {
                 return k*i;
             }
