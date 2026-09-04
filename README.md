@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1140-stone-game-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1386-cinema-seat-allocation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0268-missing-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
