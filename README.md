@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1140-stone-game-ii) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1140-stone-game-ii) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1386-cinema-seat-allocation) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -204,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1840-maximum-building-height) |
@@ -297,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
