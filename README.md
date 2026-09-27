@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
@@ -336,4 +338,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
