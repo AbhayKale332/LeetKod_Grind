@@ -1,5 +1,25 @@
 # LeetKod_Grind
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode questions.
+
+<!---LeetStats Start-->
+## 📊 Stats
+
+<div align="center">
+
+![Total Solved](https://img.shields.io/badge/Total%20Solved-66-blueviolet?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-29-3CB371?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-26-FFA116?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-11-EF4743?style=for-the-badge)
+
+</div>
+
+| Difficulty | Solved | Share | Progress |
+| :--- | :---: | :---: | :--- |
+| 🟢 Easy | 29 | 43.9% | `█████████░░░░░░░░░░░` |
+| 🟠 Medium | 26 | 39.4% | `████████░░░░░░░░░░░░` |
+| 🔴 Hard | 11 | 16.7% | `███░░░░░░░░░░░░░░░░░` |
+
+<!---LeetStats End-->
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
