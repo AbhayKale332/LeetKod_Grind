@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0242-valid-anagram) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -345,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhayKale332/LeetKod_Grind/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
